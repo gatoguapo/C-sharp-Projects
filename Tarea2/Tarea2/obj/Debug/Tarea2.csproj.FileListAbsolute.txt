@@ -1,0 +1,6 @@
+C:\Users\ADM\source\repos\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\ADM\source\repos\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\ADM\source\repos\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\ADM\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\ADM\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\ADM\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.pdb

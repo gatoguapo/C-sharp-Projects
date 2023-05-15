@@ -1,0 +1,7 @@
+C:\Users\victo\source\repos\Examen2Practica\Examen2Practica\obj\Debug\Examen2Practica.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\Examen2Practica\Examen2Practica\obj\Debug\Examen2Practica.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Examen2Practica\Examen2Practica\bin\Debug\Examen2Practica.exe.config
+C:\Users\victo\source\repos\Examen2Practica\Examen2Practica\bin\Debug\Examen2Practica.exe
+C:\Users\victo\source\repos\Examen2Practica\Examen2Practica\bin\Debug\Examen2Practica.pdb
+C:\Users\victo\source\repos\Examen2Practica\Examen2Practica\obj\Debug\Examen2Practica.exe
+C:\Users\victo\source\repos\Examen2Practica\Examen2Practica\obj\Debug\Examen2Practica.pdb

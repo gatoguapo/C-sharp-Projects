@@ -1,0 +1,17 @@
+E:\katy\GUI_ClinicaMedica\GUI_ClinicaMedica\bin\Debug\GUI_ClinicaMedica.exe.config
+E:\katy\GUI_ClinicaMedica\GUI_ClinicaMedica\bin\Debug\GUI_ClinicaMedica.exe
+E:\katy\GUI_ClinicaMedica\GUI_ClinicaMedica\bin\Debug\GUI_ClinicaMedica.pdb
+E:\katy\GUI_ClinicaMedica\GUI_ClinicaMedica\obj\Debug\GUI_ClinicaMedica.csprojAssemblyReference.cache
+E:\katy\GUI_ClinicaMedica\GUI_ClinicaMedica\obj\Debug\GUI_ClinicaMedica.frmConsultaMedicosIndv.resources
+E:\katy\GUI_ClinicaMedica\GUI_ClinicaMedica\obj\Debug\GUI_ClinicaMedica.frmConsultaMedicosTotal.resources
+E:\katy\GUI_ClinicaMedica\GUI_ClinicaMedica\obj\Debug\GUI_ClinicaMedica.Properties.Resources.resources
+E:\katy\GUI_ClinicaMedica\GUI_ClinicaMedica\obj\Debug\GUI_ClinicaMedica.csproj.GenerateResource.cache
+E:\katy\GUI_ClinicaMedica\GUI_ClinicaMedica\obj\Debug\GUI_ClinicaMedica.csproj.CoreCompileInputs.cache
+E:\katy\GUI_ClinicaMedica\GUI_ClinicaMedica\obj\Debug\GUI_ClinicaMedica.exe
+E:\katy\GUI_ClinicaMedica\GUI_ClinicaMedica\obj\Debug\GUI_ClinicaMedica.pdb
+E:\katy\GUI_ClinicaMedica\GUI_ClinicaMedica\obj\Debug\GUI_ClinicaMedica.frmMenuClinicaMedica.resources
+E:\katy\GUI_ClinicaMedica\GUI_ClinicaMedica\bin\Debug\LibreriaBD.dll
+E:\katy\GUI_ClinicaMedica\GUI_ClinicaMedica\bin\Debug\LibreriaBD.pdb
+E:\katy\GUI_ClinicaMedica\GUI_ClinicaMedica\obj\Debug\GUI_ClinicaMedica.csproj.CopyComplete
+E:\katy\GUI_ClinicaMedica\GUI_ClinicaMedica\obj\Debug\GUI_ClinicaMedica.frmConsultaCitasIndv.resources
+E:\katy\GUI_ClinicaMedica\GUI_ClinicaMedica\obj\Debug\GUI_ClinicaMedica.frmConsultaCitasTotal.resources

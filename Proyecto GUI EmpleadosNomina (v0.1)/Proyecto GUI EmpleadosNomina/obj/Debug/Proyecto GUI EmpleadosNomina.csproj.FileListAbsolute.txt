@@ -1,0 +1,141 @@
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAgregaEmpleados.resources
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmMenuEmpleadosNomina.resources
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.Properties.Resources.resources
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.exe.config
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.exe
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.pdb
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.exe
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.pdb
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.AgregaDepartamentos.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.exe.config
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.exe
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.pdb
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csprojAssemblyReference.cache
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAgregaEmpleados.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmMenuEmpleadosNomina.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaDeptoTodos.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.Properties.Resources.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.GenerateResource.cache
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.CoreCompileInputs.cache
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.exe
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.pdb
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAgregaDepartamentos.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaDeptoIndv.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.exe.config
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.exe
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.pdb
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAgregaDepartamentos.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAgregaEmpleados.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmMenuEmpleadosNomina.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaDeptoIndv.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaDeptoTodos.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.Properties.Resources.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.GenerateResource.cache
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.exe
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.pdb
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaEmpTodos.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaEmpIndv.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaEmpDatosPersonales.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaDepActivos.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmRegistroLaboral.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaNomina.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmMostrarNomina.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaRegLab.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.exe.config
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.exe
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.pdb
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAgregaDepartamentos.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAgregaEmpleados.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmMenuEmpleadosNomina.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaDepActivos.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaDeptoIndv.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaDeptoTodos.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaEmpDatosPersonales.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaEmpIndv.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaEmpTodos.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaNomina.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaRegLab.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmMostrarNomina.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmRegistroLaboral.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.Properties.Resources.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.GenerateResource.cache
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.CoreCompileInputs.cache
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.exe
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.pdb
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.AssemblyReference.cache
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI Kathy\Proyecto GUI EmpleadosNomina (Pre-Beta)\Proyecto GUI EmpleadosNomina (Alpha 0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAcercaDe.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.exe.config
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.exe
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.pdb
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.AssemblyReference.cache
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAcercaDe.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAgregaDepartamentos.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAgregaEmpleados.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmMenuEmpleadosNomina.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaDepActivos.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaDeptoIndv.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaDeptoTodos.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaEmpDatosPersonales.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaEmpIndv.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaEmpTodos.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaNomina.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaRegLab.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmMostrarNomina.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmRegistroLaboral.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.Properties.Resources.resources
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.GenerateResource.cache
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.CoreCompileInputs.cache
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.exe
+C:\Users\LUREA\OneDrive\Escritorio\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.pdb
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.exe.config
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.exe
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.pdb
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAcercaDe.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAgregaDepartamentos.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAgregaEmpleados.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmMenuEmpleadosNomina.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaDepActivos.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaDeptoIndv.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaDeptoTodos.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaEmpDatosPersonales.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaEmpIndv.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaEmpTodos.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaNomina.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaRegLab.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmMostrarNomina.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmRegistroLaboral.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.Properties.Resources.resources
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.GenerateResource.cache
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.exe
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.pdb
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.exe.config
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.exe
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.pdb
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.AssemblyReference.cache
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAcercaDe.resources
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAgregaDepartamentos.resources
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAgregaEmpleados.resources
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmMenuEmpleadosNomina.resources
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaDepActivos.resources
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaDeptoIndv.resources
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaDeptoTodos.resources
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaEmpDatosPersonales.resources
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaEmpIndv.resources
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaEmpTodos.resources
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaNomina.resources
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmConsultaRegLab.resources
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmMostrarNomina.resources
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmRegistroLaboral.resources
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.Properties.Resources.resources
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.GenerateResource.cache
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.CoreCompileInputs.cache
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.exe
+C:\Users\LUREA\Downloads\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.pdb
+C:\Users\victo\OneDrive\Desktop\Proyecto GUI EmpleadosNomina (v0.1)\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmBorrarNomina.resources

@@ -1,0 +1,12 @@
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmAgregaEmpleados.resources
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.frmMenuEmpleadosNomina.resources
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.Properties.Resources.resources
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.exe.config
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.exe
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\bin\Debug\Proyecto GUI EmpleadosNomina.pdb
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.exe
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto GUI EmpleadosNomina.pdb
+C:\Users\victo\source\repos\Proyecto GUI EmpleadosNomina\Proyecto GUI EmpleadosNomina\obj\Debug\Proyecto_GUI_EmpleadosNomina.AgregaDepartamentos.resources

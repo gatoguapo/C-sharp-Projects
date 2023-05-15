@@ -1,0 +1,6 @@
+E:\LibreriaBD\LibreriaBD\bin\Release\LibreriaBD.dll
+E:\LibreriaBD\LibreriaBD\bin\Release\LibreriaBD.pdb
+E:\LibreriaBD\LibreriaBD\obj\Release\LibreriaBD.csprojAssemblyReference.cache
+E:\LibreriaBD\LibreriaBD\obj\Release\LibreriaBD.csproj.CoreCompileInputs.cache
+E:\LibreriaBD\LibreriaBD\obj\Release\LibreriaBD.dll
+E:\LibreriaBD\LibreriaBD\obj\Release\LibreriaBD.pdb

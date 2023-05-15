@@ -1,0 +1,14 @@
+C:\Users\ADM\source\repos\Empleados_NominaConsola\Empleados_NominaConsola\bin\Debug\Empleados_NominaConsola.exe.config
+C:\Users\ADM\source\repos\Empleados_NominaConsola\Empleados_NominaConsola\bin\Debug\Empleados_NominaConsola.exe
+C:\Users\ADM\source\repos\Empleados_NominaConsola\Empleados_NominaConsola\bin\Debug\Empleados_NominaConsola.pdb
+C:\Users\ADM\source\repos\Empleados_NominaConsola\Empleados_NominaConsola\obj\Debug\Empleados_NominaConsola.csprojAssemblyReference.cache
+C:\Users\ADM\source\repos\Empleados_NominaConsola\Empleados_NominaConsola\obj\Debug\Empleados_NominaConsola.csproj.CoreCompileInputs.cache
+C:\Users\ADM\source\repos\Empleados_NominaConsola\Empleados_NominaConsola\obj\Debug\Empleados_NominaConsola.exe
+C:\Users\ADM\source\repos\Empleados_NominaConsola\Empleados_NominaConsola\obj\Debug\Empleados_NominaConsola.pdb
+E:\katy\Empleados_NominaConsola\Empleados_NominaConsola\obj\Debug\Empleados_NominaConsola.csproj.CoreCompileInputs.cache
+E:\katy\Empleados_NominaConsola\Empleados_NominaConsola\obj\Debug\Empleados_NominaConsola.exe
+E:\katy\Empleados_NominaConsola\Empleados_NominaConsola\obj\Debug\Empleados_NominaConsola.pdb
+E:\katy\Empleados_NominaConsola\Empleados_NominaConsola\bin\Debug\Empleados_NominaConsola.exe.config
+E:\katy\Empleados_NominaConsola\Empleados_NominaConsola\bin\Debug\Empleados_NominaConsola.exe
+E:\katy\Empleados_NominaConsola\Empleados_NominaConsola\bin\Debug\Empleados_NominaConsola.pdb
+E:\katy\Empleados_NominaConsola\Empleados_NominaConsola\obj\Debug\Empleados_NominaConsola.csproj.AssemblyReference.cache

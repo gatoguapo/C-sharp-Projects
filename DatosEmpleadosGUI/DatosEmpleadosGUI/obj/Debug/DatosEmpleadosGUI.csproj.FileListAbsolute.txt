@@ -1,0 +1,11 @@
+E:\katy\DatosEmpleadosGUI\DatosEmpleadosGUI\bin\Debug\DatosEmpleadosGUI.exe.config
+E:\katy\DatosEmpleadosGUI\DatosEmpleadosGUI\bin\Debug\DatosEmpleadosGUI.exe
+E:\katy\DatosEmpleadosGUI\DatosEmpleadosGUI\bin\Debug\DatosEmpleadosGUI.pdb
+E:\katy\DatosEmpleadosGUI\DatosEmpleadosGUI\obj\Debug\DatosEmpleadosGUI.frmTitulo.resources
+E:\katy\DatosEmpleadosGUI\DatosEmpleadosGUI\obj\Debug\DatosEmpleadosGUI.Properties.Resources.resources
+E:\katy\DatosEmpleadosGUI\DatosEmpleadosGUI\obj\Debug\DatosEmpleadosGUI.csproj.GenerateResource.cache
+E:\katy\DatosEmpleadosGUI\DatosEmpleadosGUI\obj\Debug\DatosEmpleadosGUI.csproj.CoreCompileInputs.cache
+E:\katy\DatosEmpleadosGUI\DatosEmpleadosGUI\obj\Debug\DatosEmpleadosGUI.exe
+E:\katy\DatosEmpleadosGUI\DatosEmpleadosGUI\obj\Debug\DatosEmpleadosGUI.pdb
+E:\katy\DatosEmpleadosGUI\DatosEmpleadosGUI\obj\Debug\DatosEmpleadosGUI.frmConsulta.resources
+E:\katy\DatosEmpleadosGUI\DatosEmpleadosGUI\obj\Debug\DatosEmpleadosGUI.csprojAssemblyReference.cache
