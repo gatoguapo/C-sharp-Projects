@@ -19,3 +19,7 @@ E:\katy\CitaMedicaCapas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
 E:\katy\CitaMedicaCapas\Datos\obj\Debug\Datos.csproj.CopyComplete
 E:\katy\CitaMedicaCapas\Datos\obj\Debug\ClinicaM.Datos.dll
 E:\katy\CitaMedicaCapas\Datos\obj\Debug\ClinicaM.Datos.pdb
+C:\Users\victo\OneDrive\Desktop\Proyectos C#\CitaMedicaCapas\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Desktop\Proyectos C#\CitaMedicaCapas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\Proyectos C#\CitaMedicaCapas\Datos\obj\Debug\ClinicaM.Datos.dll
+C:\Users\victo\OneDrive\Desktop\Proyectos C#\CitaMedicaCapas\Datos\obj\Debug\ClinicaM.Datos.pdb

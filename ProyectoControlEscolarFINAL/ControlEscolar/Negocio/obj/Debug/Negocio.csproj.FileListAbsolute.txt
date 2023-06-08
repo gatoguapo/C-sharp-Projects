@@ -1,0 +1,24 @@
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\bin\Debug\ConE.Negocio.dll
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\bin\Debug\ConE.Negocio.pdb
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\bin\Debug\ConE.Datos.dll
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\bin\Debug\ConE.Entidades.dll
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\bin\Debug\LibreriaBD.dll
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\bin\Debug\ConE.Datos.pdb
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\bin\Debug\ConE.Entidades.pdb
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\obj\Debug\ConE.Negocio.dll
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\obj\Debug\ConE.Negocio.pdb
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\bin\Debug\ConE.Negocio.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\bin\Debug\ConE.Negocio.pdb
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\bin\Debug\ConE.Datos.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\bin\Debug\ConE.Entidades.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\bin\Debug\LibreriaBD.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\bin\Debug\ConE.Datos.pdb
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\bin\Debug\ConE.Entidades.pdb
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\obj\Debug\ConE.Negocio.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Negocio\obj\Debug\ConE.Negocio.pdb

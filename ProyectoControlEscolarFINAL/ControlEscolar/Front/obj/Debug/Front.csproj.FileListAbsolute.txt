@@ -1,0 +1,118 @@
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmControlEscolar.resources
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.Properties.Resources.resources
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\Front.csproj.GenerateResource.cache
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Front.exe.config
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Front.exe
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Front.pdb
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Entidades.dll
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Negocio.dll
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Datos.dll
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\LibreriaBD.dll
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Entidades.pdb
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Negocio.pdb
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Datos.pdb
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\Front.csproj.CopyComplete
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.exe
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.pdb
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmAcercaDe.resources
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmActualizaEstudiante.resources
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmActualizaMateria.resources
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmAgregaCalificacion.resources
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmAgregaCargaAcademica.resources
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmAgregaCarrera.resources
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmAgregaEstudiante.resources
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmAgregaMateria.resources
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmConsultaEstudiante.resources
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmConsultaCalificacion.resources
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmConsultaCargaAcademica.resources
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmConsultaCarrera.resources
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmConsultaMateria.resources
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmEliminaCarrera.resources
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Front.exe.config
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Front.exe
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Front.pdb
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Entidades.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Negocio.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Datos.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\LibreriaBD.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Entidades.pdb
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Negocio.pdb
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\ConE.Datos.pdb
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmAcercaDe.resources
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmActualizaEstudiante.resources
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmActualizaMateria.resources
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmAgregaCalificacion.resources
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmAgregaCargaAcademica.resources
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmAgregaCarrera.resources
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmAgregaEstudiante.resources
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmAgregaMateria.resources
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmConsultaCalificacion.resources
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmConsultaCargaAcademica.resources
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmConsultaCarrera.resources
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmConsultaEstudiante.resources
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmConsultaMateria.resources
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmControlEscolar.resources
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.frmEliminaCarrera.resources
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.Properties.Resources.resources
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\Front.csproj.GenerateResource.cache
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\Front.csproj.CopyComplete
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.exe
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.pdb
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.barcodes.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.commons.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.forms.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.io.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.kernel.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.layout.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.pdfa.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.sign.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.styledxmlparser.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.svg.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\LibreriaPDF.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\Newtonsoft.Json.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\System.Buffers.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\System.Memory.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\System.Numerics.Vectors.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\System.ValueTuple.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.barcodes.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.commons.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.forms.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.io.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.kernel.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.layout.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.pdfa.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.sign.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.styledxmlparser.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\itext.svg.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\Newtonsoft.Json.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\System.Buffers.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\System.Memory.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\System.Numerics.Vectors.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\bin\Debug\System.ValueTuple.xml
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Front\obj\Debug\ConE.Front.exe.config

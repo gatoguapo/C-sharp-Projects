@@ -1,0 +1,11 @@
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Entidades\bin\Debug\ConE.Entidades.dll
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Entidades\bin\Debug\ConE.Entidades.pdb
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Entidades\obj\Debug\ConE.Entidades.dll
+C:\Users\LUREA\OneDrive\Escritorio\ProyectoControlEscolarFINAL\ControlEscolar\Entidades\obj\Debug\ConE.Entidades.pdb
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Entidades\bin\Debug\ConE.Entidades.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Entidades\bin\Debug\ConE.Entidades.pdb
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Entidades\obj\Debug\ConE.Entidades.dll
+C:\Programas C#\ProyectoControlEscolarFINAL\ControlEscolar\Entidades\obj\Debug\ConE.Entidades.pdb

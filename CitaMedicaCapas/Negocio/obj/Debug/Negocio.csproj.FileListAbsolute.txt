@@ -24,3 +24,16 @@ E:\katy\CitaMedicaCapas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
 E:\katy\CitaMedicaCapas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 E:\katy\CitaMedicaCapas\Negocio\obj\Debug\ClinicaM.Negocio.dll
 E:\katy\CitaMedicaCapas\Negocio\obj\Debug\ClinicaM.Negocio.pdb
+C:\Users\victo\OneDrive\Desktop\Proyectos C#\CitaMedicaCapas\Negocio\bin\Debug\ClinicaM.Negocio.dll
+C:\Users\victo\OneDrive\Desktop\Proyectos C#\CitaMedicaCapas\Negocio\bin\Debug\ClinicaM.Negocio.pdb
+C:\Users\victo\OneDrive\Desktop\Proyectos C#\CitaMedicaCapas\Negocio\bin\Debug\ClinicaM.Datos.dll
+C:\Users\victo\OneDrive\Desktop\Proyectos C#\CitaMedicaCapas\Negocio\bin\Debug\ClinicaM.Entidades.dll
+C:\Users\victo\OneDrive\Desktop\Proyectos C#\CitaMedicaCapas\Negocio\bin\Debug\LibreriaBD.dll
+C:\Users\victo\OneDrive\Desktop\Proyectos C#\CitaMedicaCapas\Negocio\bin\Debug\ClinicaM.Datos.pdb
+C:\Users\victo\OneDrive\Desktop\Proyectos C#\CitaMedicaCapas\Negocio\bin\Debug\ClinicaM.Entidades.pdb
+C:\Users\victo\OneDrive\Desktop\Proyectos C#\CitaMedicaCapas\Negocio\bin\Debug\LibreriaBD.pdb
+C:\Users\victo\OneDrive\Desktop\Proyectos C#\CitaMedicaCapas\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Desktop\Proyectos C#\CitaMedicaCapas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\Proyectos C#\CitaMedicaCapas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\victo\OneDrive\Desktop\Proyectos C#\CitaMedicaCapas\Negocio\obj\Debug\ClinicaM.Negocio.dll
+C:\Users\victo\OneDrive\Desktop\Proyectos C#\CitaMedicaCapas\Negocio\obj\Debug\ClinicaM.Negocio.pdb
